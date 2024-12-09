@@ -1,6 +1,6 @@
-### Predictive Modeling for Customer Churn Prediction in E-commerce: A Comparative Study of Machine Learning Algorithms
+# Predictive Modeling for Customer Churn Prediction in E-commerce: A Comparative Study of Machine Learning Algorithms
 
-#### The following repository contains the code for LSRA Cycle 7 Research
+## The following repository contains the code for LSRA Cycle 7 Research
 
 **Authors: Sudan Maharjan, Sayujya Satyal**
 
