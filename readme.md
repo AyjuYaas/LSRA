@@ -4,7 +4,7 @@
 
 **Authors: Sudan Maharjan, Sayujya Satyal**
 
-**Programming Language Used:**
+**Programming Language Used:**\
 <a href="https://www.python.org/doc/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </a> &emsp;
